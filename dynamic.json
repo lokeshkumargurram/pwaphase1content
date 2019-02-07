@@ -1,0 +1,46 @@
+{
+	"profile":{
+		"img":"image/prabhas1.jpg",
+		"name":"rajivlokesh",
+		"roll":"5b1",
+		"institute":"xxxx",
+		"place":"kakinada"
+	},
+	"career":{
+		"info": "to secure a challenging position where i can explor"
+	},
+
+	"education":[
+		{
+			"s":"1",
+			"degree":"btech",
+			"institute":"yyy",
+			"yop":"2020"
+		},
+		{
+			"s":"2",
+			"degree":"inter",
+			"institute":"zzz",
+			"yop":"2016"
+		},
+		{
+			"s":"3",
+			"degree":"ssc",
+			"institute":"vvv",
+			"yop":"2014"
+		}
+
+
+	],
+	"languages":[
+		{
+			"lang":"english"
+		},
+		{
+			"lang":"hindi"
+		},
+		{
+			"lang":"telugu"
+		}
+	]
+}
